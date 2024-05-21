@@ -30,11 +30,10 @@ Any environment configuration steps.
     npm run dev
     npm start
 
-## Architecture
+## 🏗️ Architecture
 
 ```
-├── .eslintrc.cjs
-├── .gitignore
+├── LICENSE
 ├── README.md
 ├── index.html
 ├── package-lock.json
@@ -67,6 +66,7 @@ Any environment configuration steps.
 │       │   └── index.js
 │       ├── index.js
 │       └── products.js
+├── vite-env.d.js
 └── vite.config.js
 ```
 
