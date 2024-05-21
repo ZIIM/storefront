@@ -2,7 +2,7 @@
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=round)](https://github.com/ZIIM/storefront/issues)
 [![HitCount](http://hits.dwyl.com/ZIIM/storefront.svg)](http://hits.dwyl.com/ZIIM/storefront)
-[![GitHub stars](https://img.shields.io/github/stars/ytisf/theZoo.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/ZIIM/storefront/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/ZIIM/storefront.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/ZIIM/storefront/stargazers/)
 
 ## 🚀 Overview
 
@@ -79,3 +79,7 @@ Any environment configuration steps.
 - Material-UI
 
 ## 🤝 Credit and Collaborations
+
+- [Brock Britton](https://github.com/brockbritton)
+- [Isai Chaidez](https://github.com/Arvoya)
+- [Patrick Kawika Reveria](https://github.com/preveira)
