@@ -30,7 +30,7 @@ export default function Categories() {
 
   return (
     <section>
-      <h2>Browse Our New Drip</h2>
+      <h2>Browse our Malware at your own risk</h2>
       {activeCategory ? <h3> Selected Category: {activeCategory}</h3> : <h3>Please Select A Category</h3>}
       <Button onClick={() => clearCategory()}>Reset</Button>
       <Box

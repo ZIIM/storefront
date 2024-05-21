@@ -7,8 +7,8 @@ const createCategory = (name, display, desc) => ({
 
 const initialState = {
   categories: [
-    createCategory("Threads", "Threads", "Head to Toe"),
-    createCategory("Kicks", "Kicks", "Toes to Heel"),
+    createCategory("Malware", "Virus"),
+    createCategory("Virus", "Malware"),
   ],
   activeCategory: "",
 };

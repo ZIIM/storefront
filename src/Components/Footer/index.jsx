@@ -3,7 +3,7 @@
 export default function Footer() {
   return (
     <footer>
-      <p>&copy; Copyrights Kawika Reveira 2024 | dripkicksnthreads@gmail.com</p>
+      <p>&copy; Copyrights John Gause 2024 | killware@gmail.com</p>
     </footer>
   );
 }

@@ -4,7 +4,7 @@ export default function Header() {
 
   return (
     <header>
-      <h1>Kicks and Threads Store</h1>
+      <h1>Virus Vault</h1>
     </header>
   )
 }

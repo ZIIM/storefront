@@ -11,6 +11,7 @@ import IconButton from '@mui/material/IconButton';
 import Typography from '@mui/material/Typography';
 import { green, grey, lightBlue } from '@mui/material/colors';
 import Box from '@mui/material/Box';
+import Button from '@mui/material/Button'
 
 
 const ExpandMore = styled((props) => {
@@ -55,7 +56,7 @@ export default function Products() {
             <CardHeader
               avatar={
                 <Avatar sx={{ bgcolor: lightBlue[500] }} aria-label="drip">
-                  DRIP
+                  
                 </Avatar>
               }
               title={product.name}
@@ -73,6 +74,9 @@ export default function Products() {
                 {product.description}
               </Typography>
             </CardContent>
+            <Button variant="contained" disableElevation>
+              Add to Cart
+            </Button>
           </Card>
 
         })}
